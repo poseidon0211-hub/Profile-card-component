@@ -32,9 +32,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: <a href="https://poseidon0211-hub.github.io/Profile-card-component/" target="_blank" rel="noreferrer"> Solution </a>
-- Live Site URL: <a href="https://gregarious-valkyrie-14024b.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
+- Live Site URL: <a href="https://dashing-medovik-d19488.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
 
-- 
 
 ## My process
 
