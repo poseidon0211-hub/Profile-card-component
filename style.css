@@ -1,0 +1,72 @@
+body {
+    background-color: hsl(185, 75%, 39%);
+    font-family: 'Kumbh Sans', sans-serif;
+    min-height: 100vh;
+    padding: 50px 0; 
+}
+
+.profile-card {
+    background-color: hsl(225, 10%, 92%);
+    width: 320px; 
+    margin: 100px auto;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.card-header img {
+    width: 100%;
+    display: block;
+}
+
+.card-body {
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.profile-picture {
+    border-radius: 50%;
+    border: 5px solid hsl(225, 10%, 92%);
+    margin-top: -50px;
+}
+
+.profile-name {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: hsl(229, 23%, 23%);
+    margin-bottom: 10px;
+}
+
+.age {
+    font-weight: 400;
+    color: hsl(227, 10%, 46%);
+}
+
+.location {
+    font-size: 1rem;
+    color: hsl(227, 10%, 46%);
+    margin-bottom: 20px;
+}
+
+.card-footer {
+    border-top: 1px solid hsl(225, 10%, 92%);
+    padding: 20px;
+}
+
+.stats {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.number {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: hsl(229, 23%, 23%);
+    margin-bottom: 5px;
+}
+
+.label {
+    font-size: 0.7rem;
+    letter-spacing: 1px;
+    color: hsl(227, 10%, 46%);
+}
