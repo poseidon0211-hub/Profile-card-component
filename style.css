@@ -13,11 +13,6 @@ body {
     overflow: hidden;
 }
 
-.card-header {
-    background-image: url('./images/bg-pattern-card.svg');
-    background-size: cover;
-    height: 140px;
-}
 .card-header img {
     width: 100%;
     display: block;
@@ -76,3 +71,4 @@ body {
     color: hsl(227, 10%, 46%);
 
 }
+
